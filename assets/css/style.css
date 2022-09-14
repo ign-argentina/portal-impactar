@@ -1,0 +1,149 @@
+body,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+span {
+    font-family: 'Encode Sans', sans-serif;
+}
+
+html,
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.navbar-brand h1 {
+    font-size: 1em !important;
+}
+
+.carousel-caption h1 {
+    font-weight: 600;
+}
+
+.carousel-indicators {
+    bottom: -10px;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 15px !important;
+    height: 15px !important;
+    padding: 0 !important;
+    margin-left: 8px !important;
+    margin-right: 8px !important;
+    border-radius: 100%;
+}
+
+.p-home-1 {
+    font-size: 1.5em;
+}
+
+.btn-radius {
+    border-radius: 15px;
+}
+
+.list-footer a {
+    font-size: .8em;
+}
+
+.list-footer li {
+    margin-bottom: 0.25rem !important;
+    font-weight: 400;
+}
+
+.footer a {
+    font-size: .8em;
+    font-weight: 700;
+    line-height: 16px;
+    display: block;
+}
+
+.escudo-footer-container {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.tooltip-light .tooltip-inner {
+    color: #212529;
+    box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.61);
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.61);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.61);
+    background-color: #f3faff;
+}
+
+.bs-tooltip-start .tooltip-arrow::before,
+.bs-tooltip-auto[data-popper-placement^="left"] .tooltip-arrow::before {
+    border-left-color: #f3faff;
+}
+
+#navbar-content {
+    position: absolute;
+    right: 0;
+    z-index: 9999;
+}
+
+#navbar-content ul,
+#navbar-content li {
+    list-style-type: none;
+}
+
+#navbar-content li,
+#navbar-content a {
+    color: #FFFFFF;
+}
+
+#navbar-content li:first-child {
+    margin-top: 1rem;
+}
+
+#navbar-content li {
+    margin-bottom: 1rem;
+}
+
+.txts-1 {
+    font-size: 1rem;
+}
+
+.txts-125 {
+    font-size: 1.25rem;
+}
+
+.txts-15 {
+    font-size: 1.5rem;
+}
+
+.txts-25 {
+    font-size: 2.5rem;
+}
+
+.slide-pair {
+    background-color: #50B8B0 !important;
+    -webkit-transition: .5s ease-in-out;
+    -moz-transition: .5s ease-in-out;
+    -o-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+}
+
+.slide-unpair {
+    background-color: #5F80C2 !important;
+    -webkit-transition: .5s ease-in-out;
+    -moz-transition: .5s ease-in-out;
+    -o-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+}
+
+a.text-white:hover {
+    color: white !important;
+}
