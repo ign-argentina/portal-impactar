@@ -293,7 +293,7 @@ include("./conf.urls.php");
     <div class="container-fluid bg-light p-5 list-footer" id="section-enlaces">
         <div class="row">
             <div class="col-12 col-md-3 mt-3 mt-md-0">
-                <h6 class="fw-700">Trámites</h6>
+                <h6 class="fw-700">Trámites.</h6>
                 <ul class="list-unstyled text-dark mt-3">
                     <li><a target="_blank" class="text-dark" href="https://www.argentina.gob.ar/turnos" target="_blank">Turnos</a></li>
                     <li><a target="_blank" class="text-dark" href="https://www.argentina.gob.ar/jefatura/innovacion-publica/innovacion-administrativa/tramites-distancia-tad" target="_blank">Trámites a Distancia</a></li>
