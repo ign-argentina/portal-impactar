@@ -46,7 +46,7 @@ include("./conf.urls.php");
     </nav>
     <div id="navbar-content" class="col-12 col-md-3 bg-primary p-1 pb-5 collapse">
         <ul>
-            <li><a href="http://argenmap.atic.com.ar/<?php //echo url_mapas; ?>" target="_blank">Visor de mapas</a></li>
+            <li><a href="<?php echo url_mapas; ?>" target="_blank">Visor de mapas</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-experiencias">Experiencias</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-tutoriales">Tutoriales</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-enlaces">Enlaces</a></li>
@@ -145,7 +145,7 @@ include("./conf.urls.php");
                             <li class="text-white fw-700 txts-125 mb-1">Realizá y descargá análisis territoriales en línea</li>
                             <li class="text-white fw-700 txts-125 mb-4">Descargá información estratégica de tu municipio</li>
                         </ul>
-                        <a href="http://argenmap.atic.com.ar" target="_blank" class="btn btn-outline-light btn-radius px-5">Ingresar</a>
+                        <a href="<?php echo url_mapas; ?>" target="_blank" class="btn btn-outline-light btn-radius px-5">Ingresar</a>
                     </div>
                 </div>
             </div>
