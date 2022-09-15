@@ -46,7 +46,7 @@ include("./conf.urls.php");
     </nav>
     <div id="navbar-content" class="col-12 col-md-3 bg-primary p-1 pb-5 collapse">
         <ul>
-            <li><a href="<?php echo url_mapas; ?>" target="_blank">Visor de mapas</a></li>
+            <li><a href="http://argenmap.atic.com.ar/<?php //echo url_mapas; ?>" target="_blank">Visor de mapas</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-experiencias">Experiencias</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-tutoriales">Tutoriales</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-enlaces">Enlaces</a></li>
@@ -60,6 +60,7 @@ include("./conf.urls.php");
             <button type="button" data-bs-target="#carGeoportalHome" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carGeoportalHome" data-bs-slide-to="1" aria-label="Slide 2"></button>
             <button type="button" data-bs-target="#carGeoportalHome" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carGeoportalHome" data-bs-slide-to="3" aria-label="Slide 4"></button>
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -78,6 +79,13 @@ include("./conf.urls.php");
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/car_3.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-flex flex-column">
+                    <h1 class="bg-primary d-inline-block mx-auto">Geoportal Federal para la Gestión Local</h1>
+                    <h3 class="bg-primary d-inline-block mx-auto">Una herramienta de análisis territorial para municipios</h3>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="./assets/images/car_4.jpg" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-flex flex-column">
                     <h1 class="bg-primary d-inline-block mx-auto">Geoportal Federal para la Gestión Local</h1>
                     <h3 class="bg-primary d-inline-block mx-auto">Una herramienta de análisis territorial para municipios</h3>
@@ -137,7 +145,7 @@ include("./conf.urls.php");
                             <li class="text-white fw-700 txts-125 mb-1">Realizá y descargá análisis territoriales en línea</li>
                             <li class="text-white fw-700 txts-125 mb-4">Descargá información estratégica de tu municipio</li>
                         </ul>
-                        <a href="/mapa" target="_blank" class="btn btn-outline-light btn-radius px-5">Ingresar</a>
+                        <a href="http://argenmap.atic.com.ar" target="_blank" class="btn btn-outline-light btn-radius px-5">Ingresar</a>
                     </div>
                 </div>
             </div>
@@ -324,21 +332,22 @@ include("./conf.urls.php");
 
     <div class="container-fluid bg-primary p-5 footer" id="section-contacto">
         <div class="row d-flex align-items-center">
-            <div class="col-12 col-md-3 m-0">
+            <div class="col-12 col-md-3 m-0 mt-3 mt-md-0">
                 <a href="https://www.argentina.gob.ar/" target="_blank">
-                    <img src="./assets/images/argentina.png" height="64">
+                    <img src="./assets/images/logo_ministerio_del_interior.png" height="64">
                 </a>
             </div>
-            <div class="col-12 col-md-2 mt-3 mt-md-0">
-                <!-- <a href="" class="text-dark">Ministerio de Ciencia, <br>Tecnología e Innovación</a> -->
+            <div class="col-12 col-md-3 m-0 mt-3 mt-md-0">
+                <a href="https://www.argentina.gob.ar/" target="_blank">
+                    <img src="./assets/images/logo_ministerio_ciencia_tecnologia_innovacion.png" height="64">
+                </a>
             </div>
-            <div class="col-12 col-md-2 mt-3 mt-md-0">
-                <!-- <a href="" class="text-dark">Ministerio del Interior</a> -->
+            <div class="col-12 col-md-3 m-0 mt-3 mt-md-0">
+                <a href="https://www.argentina.gob.ar/" target="_blank">
+                    <img src="./assets/images/logo_ministerio_defensa.png" height="64">
+                </a>
             </div>
-            <div class="col-12 col-md-2 mt-3 mt-md-0">
-                <!-- <a href="" class="text-dark">Ministerio de Defensa</a> -->
-            </div>
-            <div class="col-12 col-md-3 mt-3 mt-md-0">
+            <div class="col-12 col-md-3 mt-3 mt-md-0 mt-3 mt-md-0">
                 <div class="d-flex justify-content-end">
                     <div id="escudo-footer-container" class="escudo-footer-container">
                         <a href="https://www.ign.gob.ar/" target="_blank">
