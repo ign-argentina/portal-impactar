@@ -249,7 +249,7 @@ include("./conf.urls.php");
                     <div class="carousel-inner py-5">
 
                         <div class="carousel-item active">
-                            <small class="text-white">Ministerio del Interior</small>
+                            <small class="text-white text-white-bold">Ministerio del Interior</small>
                             <h3 class="text-white mt-2">Registro Federal de Gobiernos Locales</h3>
                             <p class="text-white mt-3">Si querés conocer más sobre las potencialidades y necesidades de desarrollo local, accede a información político-institucional y estadística complementaria al Geoportal.</p>
                             <div class="text-center">
@@ -258,7 +258,7 @@ include("./conf.urls.php");
                         </div>
 
                         <div class="carousel-item">
-                            <small class="text-white">Instituto Geográfico Nacional</small>
+                            <small class="text-white text-white-bold">Instituto Geográfico Nacional</small>
                             <h3 class="text-white mt-2">Geoportal IGN</h3>
                             <p class="text-white mt-3">La información Geográfica del IGN en un solo Lugar. El Instituto Geográfico Nacional produce y distribuye información geoespacial precisa y oportuna, necesaria para el desarrollo del país y el conocimiento del territorio nacional
                             </p>
@@ -268,7 +268,7 @@ include("./conf.urls.php");
                         </div>
 
                         <div class="carousel-item">
-                            <small class="text-white">IDERA</small>
+                            <small class="text-white text-white-bold">IDERA</small>
                             <h3 class="text-white mt-2">Infraestructura de Datos Espaciales de la República Argentina</h3>
                             <p class="text-white mt-3">Nuevos horizontes, nuevos desafíos.</p>
                             <div class="text-center">
@@ -277,7 +277,7 @@ include("./conf.urls.php");
                         </div>
 
                         <div class="carousel-item">
-                            <small class="text-white">Ministerio de Ciencia, Tecnología e Innovación</small>
+                            <small class="text-white text-white-bold">Ministerio de Ciencia, Tecnología e Innovación</small>
                             <h3 class="text-white mt-2">Programa Impact.ar (Validado con Mincyt 11.05.2022)</h3>
                             <p class="text-white mt-3">Informate sobre las posibilidades de acceso de los gobiernos locales a financiamiento para proyectos que requieran de ciencia y tecnología para su resolución. </p>
                             <div class="text-center">
