@@ -147,3 +147,7 @@ a {
 a.text-white:hover {
     color: white !important;
 }
+
+.text-White-Bold {
+  font-weight: 700;
+}
