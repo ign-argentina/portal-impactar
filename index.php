@@ -47,7 +47,7 @@ include("./conf.urls.php");
     <div id="navbar-content" class="col-12 col-md-3 bg-primary p-1 pb-5 collapse">
         <ul>
             <li><a href="<?php echo url_mapas; ?>" target="_blank">Visor de mapas</a></li>
-            <li><a href="javascript:void(0);" class="text-white" id="link-experiencias">Experiencias</a></li>
+            <li><a href="javascript:void(0);" class="text-white" id="link-tutoriales">Experiencias</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-tutoriales">Tutoriales</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-enlaces">Enlaces</a></li>
             <li><a href="javascript:void(0);" class="text-white" id="link-contacto">Contacto</a></li>
