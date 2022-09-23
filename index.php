@@ -251,7 +251,7 @@ include("./conf.urls.php");
                         <div class="carousel-item active">
                             <small class="text-white">Ministerio del Interior</small>
                             <h3 class="text-white mt-2">Registro Federal de Gobiernos Locales</h3>
-                            <p class="text-white mt-3">Una herramienta que facilita el acceso público a la información territorial y una mayor comprensión sobre las potencialidades y necesidades de desarrollo local</p>
+                            <p class="text-white mt-3">Si querés conocer más sobre las potencialidades y necesidades de desarrollo local, accede a información político-institucional y estadística complementaria al Geoportal.</p>
                             <div class="text-center">
                                 <a href="https://gobiernoslocales.mininterior.gob.ar/" class="btn btn-outline-light btn-radius mx-auto px-5 mt-3" target="_blank">Leer más</a>
                             </div>
@@ -277,9 +277,9 @@ include("./conf.urls.php");
                         </div>
 
                         <div class="carousel-item">
-                            <small class="text-white">MinCyT</small>
-                            <h3 class="text-white mt-2">Ministerio de Ciencia, Tecnología e Innovación</h3>
-                            <p class="text-white mt-3">Financiamos la investigación, proveemos infraestructura, promovemos el vínculo armónico entre los sistemas académico y productivo y divulgamos los conocimientos producidos por el quehacer científico-tecnológico y sus aplicaciones en la sociedad.</p>
+                            <small class="text-white">Ministerio de Ciencia, Tecnología e Innovación</small>
+                            <h3 class="text-white mt-2">Programa Impact.ar (Validado con Mincyt 11.05.2022)</h3>
+                            <p class="text-white mt-3">Informate sobre las posibilidades de acceso de los gobiernos locales a financiamiento para proyectos que requieran de ciencia y tecnología para su resolución. </p>
                             <div class="text-center">
                                 <a href="https://www.argentina.gob.ar/ciencia" class="btn btn-outline-light btn-radius mx-auto px-5 mt-3" target="_blank">Leer más</a>
                             </div>
