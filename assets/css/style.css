@@ -151,3 +151,7 @@ a.text-white:hover {
 .text-white-bold {
   font-weight: 700;
 }
+
+.text-color-link {
+  color: #d6e031;
+}
