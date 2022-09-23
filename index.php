@@ -258,32 +258,34 @@ include("./conf.urls.php");
                         </div>
 
                         <div class="carousel-item">
-                            <small class="text-white text-white-bold">Instituto Geográfico Nacional</small>
-                            <h3 class="text-white mt-2">Geoportal IGN</h3>
-                            <p class="text-white mt-3">La información Geográfica del IGN en un solo Lugar. El Instituto Geográfico Nacional produce y distribuye información geoespacial precisa y oportuna, necesaria para el desarrollo del país y el conocimiento del territorio nacional
+                            <small class="text-white text-white-bold">Ministerio de Defensa</small>
+                            <h3 class="text-white mt-2">Geoportal Instituto Geográfico Nacional</h3>
+                            <p class="text-white mt-3">La información Geográfica del IGN en un solo Lugar. El Instituto Geográfico Nacional produce y distribuye información geoespacial precisa y oportuna, necesaria para el desarrollo del país y el conocimiento del territorio nacional. Accedé a los cursos del
+                            <a class="mt-3 text-color-link" href="https://www.ign.gob.ar/AreaServicios/CCCG" target="_blank">Centro de Capacitación en Ciencias Geográficas</a>
                             </p>
                             <div class="text-center">
                                 <a href="https://geoportal.ign.gob.ar/" class="btn btn-outline-light btn-radius mx-auto px-5 mt-3" target="_blank">Leer más</a>
+                            </div>
+                        </div>
+                        
+                        <div class="carousel-item">
+                            <small class="text-white text-white-bold">Ministerio de Ciencia, Tecnología e Innovación</small>
+                            <h3 class="text-white mt-2">Programa ImpaCT.AR</h3>
+                            <p class="text-white mt-3">Informate sobre las posibilidades de acceso de los gobiernos locales a financiamiento para proyectos que requieran de ciencia y tecnología para su resolución. </p>
+                            <div class="text-center">
+                                <a href="https://www.argentina.gob.ar/ciencia" class="btn btn-outline-light btn-radius mx-auto px-5 mt-3" target="_blank">Leer más</a>
                             </div>
                         </div>
 
                         <div class="carousel-item">
                             <small class="text-white text-white-bold">IDERA</small>
                             <h3 class="text-white mt-2">Infraestructura de Datos Espaciales de la República Argentina</h3>
-                            <p class="text-white mt-3">Nuevos horizontes, nuevos desafíos.</p>
+                            <p class="text-white mt-3">Comunidad de productores y usuarios de información geoespacial integrada por organismos de jurisdicción Nacional, Provincial, Municipal, Consejos Federales, Universidades, Organismos no gubernamentales y empresas de todo el país.</p>
                             <div class="text-center">
                                 <a href="https://www.idera.gob.ar/" class="btn btn-outline-light btn-radius mx-auto px-5 mt-3" target="_blank">Leer más</a>
                             </div>
                         </div>
 
-                        <div class="carousel-item">
-                            <small class="text-white text-white-bold">Ministerio de Ciencia, Tecnología e Innovación</small>
-                            <h3 class="text-white mt-2">Programa Impact.ar (Validado con Mincyt 11.05.2022)</h3>
-                            <p class="text-white mt-3">Informate sobre las posibilidades de acceso de los gobiernos locales a financiamiento para proyectos que requieran de ciencia y tecnología para su resolución. </p>
-                            <div class="text-center">
-                                <a href="https://www.argentina.gob.ar/ciencia" class="btn btn-outline-light btn-radius mx-auto px-5 mt-3" target="_blank">Leer más</a>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
