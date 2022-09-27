@@ -267,7 +267,7 @@ include("./conf.urls.php");
                                 <a href="https://geoportal.ign.gob.ar/" class="btn btn-outline-light btn-radius mx-auto px-5 mt-3" target="_blank">Leer más</a>
                             </div>
                         </div>
-                        
+
                         <div class="carousel-item">
                             <small class="text-white text-white-bold">Ministerio de Ciencia, Tecnología e Innovación</small>
                             <h3 class="text-white mt-2">Programa ImpaCT.AR</h3>
@@ -336,32 +336,37 @@ include("./conf.urls.php");
         <div class="row d-flex align-items-center">
             <div class="col-12 col-md-3 m-0 mt-3 mt-md-0">
                 <a href="https://www.argentina.gob.ar/" target="_blank">
-                    <img src="./assets/images/logo_ministerio_del_interior.png" height="64">
+                    <img src="./assets/images/logo_presidencia_arg.png" height="56">
                 </a>
             </div>
-            <div class="col-12 col-md-3 m-0 mt-3 mt-md-0">
-                <a href="https://www.argentina.gob.ar/" target="_blank">
-                    <img src="./assets/images/logo_ministerio_ciencia_tecnologia_innovacion.png" height="64">
+            <div class="col-12 col-md-2 m-0 mt-3 mt-md-0">
+                <a href="https://www.argentina.gob.ar/interior/" target="_blank">
+                    <img src="./assets/images/minInt.png" height="14">
                 </a>
             </div>
-            <div class="col-12 col-md-3 m-0 mt-3 mt-md-0">
-                <a href="https://www.argentina.gob.ar/" target="_blank">
-                    <img src="./assets/images/logo_ministerio_defensa.png" height="64">
+            <div class="col-12 col-md-2 m-0 mt-3 mt-md-0">
+                <a href="https://www.argentina.gob.ar/ciencia/" target="_blank">
+                    <img src="./assets/images/minCyT.png" height="32">
+                </a>
+            </div>
+            <div class="col-12 col-md-2 m-0 mt-4 mt-md-0">
+                <a href="https://www.argentina.gob.ar/defensa/" target="_blank">
+                    <img src="./assets/images/minDef.png" height="14">
                 </a>
             </div>
             <div class="col-12 col-md-3 mt-3 mt-md-0 mt-3 mt-md-0">
-                <div class="d-flex justify-content-end">
-                    <div id="escudo-footer-container" class="escudo-footer-container">
+                  <div class="d-flex justify-content-end">
+                  <!--  <div id="escudo-footer-container" class="escudo-footer-container"> -->
                         <a href="https://www.ign.gob.ar/" target="_blank">
-                            <img src="./assets/images/logo-ign-white.png" height="64">
+                            <img src="./assets/images/logo-ign-white.png" height="50">
                         </a>
                     </div>
                     <!-- <div id="escudo-footer-container" data-bs-offset="0,20" class="escudo-footer-container" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-html="true" title="<div class=''>Como podemos ayudarte?</div>">
                         <a href="https://www.ign.gob.ar/" target="_blank">
                             <img src="./assets/images/logo-ign-white.png" height="64">
                         </a>
-                    </div> -->
-                </div>
+                    </div>
+                </div>-->
             </div>
         </div>
     </div>
@@ -429,11 +434,11 @@ include("./conf.urls.php");
             $("#carSuccessContainer").removeClass("slide-unpair");
 
             if((e.to%2)==0) {
-                
+
                 $("#carSuccessContainer").addClass("slide-pair");
 
             }else{
-                
+
                 $("#carSuccessContainer").addClass("slide-unpair");
 
             }
@@ -443,7 +448,7 @@ include("./conf.urls.php");
         let h = $("#carSuccess .carousel-item.active").height();
 
         $("#carSuccess .carousel-item").height(h);
-        
+
 
     </script>
 
