@@ -170,19 +170,19 @@ include("./conf.urls.php");
                         <div class="carousel-inner p-2 p-md-5">
 
                             <div class="carousel-item active">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/SCcsJpnKP1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Node JS, Express & Bootstrap</p>
+                                <iframe width="100%" height="315" src="https://youtu.be/HHiUu6YVwrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <p class="text-white mt-4 txts-15">Introducción al mapa para la gestión local</p>
                             </div>
                             <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/rfscVS0vtbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="315" src="https://youtu.be/HHiUu6YVwrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15">Phyton para principiantes</p>
                             </div>
                             <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/uDBvifRi4Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="315" src="https://youtu.be/HHiUu6YVwrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15">Binance 2021 como operar en Argentina</p>
                             </div>
                             <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/gsxCopOjGZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="315" src="https://youtu.be/HHiUu6YVwrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15">Excel, Tablas y Fórmulas profesionales</p>
                             </div>
 
