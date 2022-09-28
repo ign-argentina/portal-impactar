@@ -375,13 +375,13 @@ include("./conf.urls.php");
     <script src="./lib/jquery-3.5.1.js"></script>
     <script src="./lib/bootstrap5/js/bootstrap.js"></script>
     <script type="text/javascript">
-        var exampleEl = document.getElementById('escudo-footer-container')
+       /* var exampleEl = document.getElementById('escudo-footer-container')
         var tooltip = new bootstrap.Tooltip(exampleEl, {
             boundary: document.querySelector('#escudo-footer-container'),
             trigger: "manual",
             customClass: "tooltip-light"
         })
-        tooltip.show();
+        tooltip.show();*/
 
         $("#link-experiencia,#link-tutoriales").click(function() {
             $([document.documentElement, document.body]).animate({
