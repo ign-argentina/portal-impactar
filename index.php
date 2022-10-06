@@ -170,12 +170,12 @@ include("./conf.urls.php");
                         <div class="carousel-inner p-2 p-md-5">
 
                             <div class="carousel-item active">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%"" height="315" src="https://www.youtube.com/embed/HHiUu6YVwrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15">Introducción al mapa para la gestión local</p>
                             </div>
                             <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://youtu.be/HHiUu6YVwrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Phyton para principiantes</p>
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <p class="text-white mt-4 txts-15">Análisis espacial con curvas de nivel</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://youtu.be/HHiUu6YVwrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
