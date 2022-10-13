@@ -179,11 +179,11 @@ include("./conf.urls.php");
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://youtu.be/HHiUu6YVwrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Binance 2021 como operar en Argentina</p>
+                                <p class="text-white mt-4 txts-15">Tutoriales 3</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Excel, Tablas y Fórmulas profesionales</p>
+                                <p class="text-white mt-4 txts-15">Tutoriales 4</p>
                             </div>
 
                         </div>
