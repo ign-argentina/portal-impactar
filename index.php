@@ -204,7 +204,7 @@ include("./conf.urls.php");
                         <div class="carousel-inner p-2 p-md-5">
 
                             <div class="carousel-item active">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/2OTJzu8qP5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="315" src="https://youtu.be/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15">Review curso de Node JS de Fernando Herrera</p>
                             </div>
                             <div class="carousel-item">
@@ -216,7 +216,7 @@ include("./conf.urls.php");
                                 <p class="text-white mt-4 txts-15">Que está pasando con Binance? Está seguro mi dinero allí?</p>
                             </div>
                             <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/jtHPwXheRXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="315" src="https://youtu.be/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15">Opiniones Excel 2022</p>
                             </div>
 
