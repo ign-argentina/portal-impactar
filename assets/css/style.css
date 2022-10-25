@@ -155,3 +155,9 @@ a.text-white:hover {
 .text-color-link {
   color: #d6e031;
 }
+
+@media (min-width: 992px) {
+    .carrousel-text-height {
+        height: 60px;
+    }
+}
