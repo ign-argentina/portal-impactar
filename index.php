@@ -171,23 +171,23 @@ include("./conf.urls.php");
 
                             <div class="carousel-item active">
                                 <iframe width="100%"" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Introducción al mapa para la gestión local</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Introducción al mapa para la gestión local</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Análisis espacial con curvas de nivel</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Análisis espacial con curvas de nivel</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Generación de áreas de influencia</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Generación de áreas de influencia</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Detección de nuevas construcciones a partir de imágenes satelitales</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de nuevas construcciones a partir de imágenes satelitales</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Análisis espacial espacial de usos del suelo</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Análisis espacial espacial de usos del suelo</p>
                             </div>
                         </div>
                     </div>
@@ -207,20 +207,22 @@ include("./conf.urls.php");
                         <div class="carousel-inner p-2 p-md-5">
 
                             <div class="carousel-item active">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales. San Ramón de la Nueva Oran, Salta</p>
+                                <div class="d-block w-100">
+                                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales. San Ramón de la Nueva Oran, Salta</p>
+                                </div>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
                             </div>
 
                         </div>
