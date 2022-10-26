@@ -332,6 +332,12 @@ include("./conf.urls.php");
                     <li><a target="_blank" class="text-dark" href="https://www.argentina.gob.ar/sugerencias" target="_blank">Sugerencias</a></li>
                 </ul>
             </div>
+            <div class="col-12 col-md-3 mt-3 mt-md-0 me-auto">
+                <h6 class="fw-700">Contacto</h6>
+                <ul class="list-unstyled text-dark mt-3">
+                    <li><a target="_blank" class="text-dark">datosmunicipales@mininterior.gob.ar</a></li>
+                </ul>
+            </div>
         </div>
     </div>
 
