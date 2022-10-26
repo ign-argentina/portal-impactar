@@ -203,6 +203,8 @@ include("./conf.urls.php");
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="1" aria-label="Slide 2"></button>
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="2" aria-label="Slide 3"></button>
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="4" aria-label="Slide 5"></button>
+
                         </div>
                         <div class="carousel-inner p-2 p-md-5">
 
@@ -214,15 +216,19 @@ include("./conf.urls.php");
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Diagnóstico de la ciudad. Identificación de vacíos Urbanos en conjunto con el Plan Nacional de Suelo. Monteros, Tucumán</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Mapeo colectivo para abordar el derecho a habitar territorios libres de violencia de género. Villa María, Córdoba </p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de terrenos baldíos y mejoras edilicias. Actualización de valores fiscales.</p>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Corrección de líneas de Catastro y mapeos para plan de movilidad urbana. Concordia, Entre Ríos</p>
+                            </div>
+                            <div class="carousel-item">
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Gestión del espacio aéreo en comunicaciones. Relevamiento de cableado y posteado de empresas. General Roca, Río Negro </p>
                             </div>
 
                         </div>
@@ -324,7 +330,7 @@ include("./conf.urls.php");
                     <li><a target="_blank" class="text-dark" href="https://www.argentina.gob.ar/jefatura/mapa-del-estado" target="_blank">Mapa del Estado</a></li>
                 </ul>
             </div>
-            <div class="col-12 col-md-3 mt-3 mt-md-0 me-auto">
+            <div class="col-12 col-md-3 mt-3 mt-md-0">
                 <h6 class="fw-700">Acerca de Argentina.gob.ar</h6>
                 <ul class="list-unstyled text-dark mt-3">
                     <li><a target="_blank" class="text-dark" href="https://www.argentina.gob.ar/acerca" target="_blank">Acerca de este sitio</a></li>
