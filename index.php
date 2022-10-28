@@ -162,8 +162,8 @@ include("./conf.urls.php");
                     <div id="carTutoriales" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-indicators" style="bottom:-35px;">
                             <button type="button" data-bs-target="#carTutoriales" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                            <button type="button" data-bs-target="#carTutoriales" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                            <button type="button" data-bs-target="#carTutoriales" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                      <!--  <button type="button" data-bs-target="#carTutoriales" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                            <button type="button" data-bs-target="#carTutoriales" data-bs-slide-to="2" aria-label="Slide 3"></button> -->
                             <button type="button" data-bs-target="#carTutoriales" data-bs-slide-to="3" aria-label="Slide 4"></button>
                             <button type="button" data-bs-target="#carTutoriales" data-bs-slide-to="4" aria-label="Slide 5"></button>
 
@@ -175,14 +175,14 @@ include("./conf.urls.php");
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/pvQTV5qkZGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Introducción al mapa para la gestión local</p>
                             </div>
-                            <div class="carousel-item">
+                        <!--<div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_DQEzvy4NJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Análisis espacial con curvas de nivel</p>
                             </div>
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8niSS06qIeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Generación de áreas de influencia</p>
-                            </div>
+                            </div> -->
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/v8oVaiEASQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de nuevas construcciones a partir de imágenes satelitales</p>
