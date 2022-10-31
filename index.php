@@ -176,14 +176,6 @@ include("./conf.urls.php");
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Introducción al mapa para la gestión local</p>
                             </div>
                             <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/dy4PtR6ufOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15 carrousel-text-height">Análisis espacial con curvas de nivel</p>
-                            </div>
-                            <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/Joju9yqL1QI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15 carrousel-text-height">Generación de áreas de influencia</p>
-                            </div>
-                            <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/v8oVaiEASQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Detección de nuevas construcciones a partir de imágenes satelitales</p>
                             </div>
@@ -191,6 +183,15 @@ include("./conf.urls.php");
                               <iframe width="100%" height="315" src="https://www.youtube.com/embed/_DQEzvy4NJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Análisis espacial de usos del suelo</p>
                             </div>
+                            <div class="carousel-item">
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/dy4PtR6ufOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Análisis espacial con curvas de nivel</p>
+                            </div>
+                            <div class="carousel-item">
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/Joju9yqL1QI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Generación de áreas de influencia</p>
+                            </div>
+
                         </div>
                     </div>
                 </div>
