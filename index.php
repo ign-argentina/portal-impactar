@@ -204,9 +204,9 @@ include("./conf.urls.php");
                         <div class="carousel-indicators" style="bottom:-35px;">
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                           <!-- <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="2" aria-label="Slide 3"></button>
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="3" aria-label="Slide 4"></button>
-                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="4" aria-label="Slide 5"></button>-->
 
                         </div>
                         <div class="carousel-inner p-2 p-md-5">
@@ -218,10 +218,9 @@ include("./conf.urls.php");
                                 </div>
                             </div>
                             <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                <p class="text-white mt-4 txts-15 carrousel-text-height">Diagnóstico de la ciudad. Identificación de vacíos Urbanos en conjunto con el Plan Nacional de Suelo. Monteros, Tucumán</p>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/QU0JA_cs3SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                <p class="text-white mt-4 txts-15 carrousel-text-height">Diagnóstico de la ciudad. Identificación de vacíos Urbanos en conjunto con el Plan Nacional de Suelo. Monteros, Tucumán</p>
                             </div>
-                            <div class="carousel-item">
+                            <!--<div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Mapeo colectivo para abordar el derecho a habitar territorios libres de violencia de género. Villa María, Córdoba </p>
                             </div>
@@ -232,7 +231,7 @@ include("./conf.urls.php");
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Gestión del espacio aéreo en comunicaciones. Relevamiento de cableado y posteado de empresas. General Roca, Río Negro </p>
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>
