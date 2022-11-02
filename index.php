@@ -218,7 +218,7 @@ include("./conf.urls.php");
                                 </div>
                             </div>
                             <div class="carousel-item">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/QU0JA_cs3SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                <p class="text-white mt-4 txts-15 carrousel-text-height">Diagnóstico de la ciudad. Identificación de vacíos Urbanos en conjunto con el Plan Nacional de Suelo. Monteros, Tucumán</p>
+                            <iframe width="100%" height="315" src="https://www.youtube.com/embed/QU0JA_cs3SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                <p class="text-white mt-4 txts-15 carrousel-text-height">Diagnóstico de la ciudad. Identificación de vacíos Urbanos en conjunto con el Plan Nacional de Suelo. Monteros, Tucumán</p>
                             </div>
                             <!--<div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
