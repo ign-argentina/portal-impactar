@@ -204,8 +204,8 @@ include("./conf.urls.php");
                         <div class="carousel-indicators" style="bottom:-35px;">
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-toria-label="Slide 3"></button>
-                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="3" aria-label="Sl="2" aide 4"></button>
+                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="3" aria-label="Slide 4"></button>
                           <!--  <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="4" aria-label="Slide 5"></button>-->
 
                         </div>
