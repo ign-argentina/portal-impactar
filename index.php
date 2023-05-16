@@ -204,9 +204,9 @@ include("./conf.urls.php");
                         <div class="carousel-indicators" style="bottom:-35px;">
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                             <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                          <!--  <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="3" aria-label="Slide 4"></button>
-                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="4" aria-label="Slide 5"></button>-->
+                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-toria-label="Slide 3"></button>
+                            <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="3" aria-label="Sl="2" aide 4"></button>
+                          <!--  <button type="button" data-bs-target="#carExperiencias" data-bs-slide-to="4" aria-label="Slide 5"></button>-->
 
                         </div>
                         <div class="carousel-inner p-2 p-md-5">
@@ -224,6 +224,10 @@ include("./conf.urls.php");
                             <div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/jhWfantsch8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Corrección de catastro mediante imágenes satelitales y trabajos para plan de movilidad urbana. Concordia, Entre Ríos</p>
+                            </div>
+                            <div class="carousel-item">
+                                <iframe width="100%" height="315" src="https://youtu.be/WG-_jnQLVHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <p class="text-white mt-4 txts-15 carrousel-text-height">Planeamieno Urbano con perspectiva de Género. Plan de iluminación en base a zonas de peligrosidad. Villa María Córdoba</p>
                             </div>
                             <!--<div class="carousel-item">
                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HsPluFnWjHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
