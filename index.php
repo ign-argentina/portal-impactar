@@ -226,7 +226,7 @@ include("./conf.urls.php");
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Corrección de catastro mediante imágenes satelitales y trabajos para plan de movilidad urbana. Concordia, Entre Ríos</p>
                             </div>
                             <div class="carousel-item">
-                                <iframe width="100%" height="315" src="https://youtu.be/WG-_jnQLVHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/WG-_jnQLVHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <p class="text-white mt-4 txts-15 carrousel-text-height">Planeamieno Urbano con perspectiva de Género. Plan de iluminación en base a zonas de peligrosidad. Villa María Córdoba</p>
                             </div>
                             <!--<div class="carousel-item">
